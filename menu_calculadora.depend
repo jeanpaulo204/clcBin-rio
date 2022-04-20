@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619399920 source:c:\users\malug\onedrive\documentos\univali\hw i\menu_calculadora\main.cpp
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
